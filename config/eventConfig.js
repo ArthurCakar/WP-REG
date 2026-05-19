@@ -1,0 +1,83 @@
+module.exports = [
+  {
+    name: 'RP Ticket',
+    channel: '1451500340351340584',
+    durationMinutes: 20,
+    mainSize: 25,
+    subsSize: 10,
+    vcChannelId: '1451338447913750704',
+    times: [
+      { hour: 12, minute: 10 },
+      { hour: 18, minute: 10 },
+      { hour: 0, minute: 10 },
+    ],
+  },
+  {
+    name: 'Business War',
+    channel: '1451349364105810013',
+    durationMinutes: 20,
+    mainSize: 25,
+    subsSize: 10,
+    vcChannelId: '1451338447913750704',
+    times: [
+      { hour: 20, minute: 45 },
+      { hour: 2, minute: 45 },
+    ],
+  },
+  {
+    name: 'Foundry',
+    channel: '1451349364105810013',
+    durationMinutes: 20,
+    mainSize: 25,
+    subsSize: 10,
+    vcChannelId: '1451338447913750704',
+    times: [
+      { hour: 16, minute: 0 },
+    ],
+  },
+  {
+    name: 'Weapons Factory',
+    channel: '1451349364105810013',
+    durationMinutes: 20,
+    mainSize: 25,
+    subsSize: 10,
+    vcChannelId: '1451338447913750704',
+    times: [
+      { hour: 5, minute: 0 },
+      { hour: 9, minute: 0 },
+      { hour: 12, minute: 0 },
+      { hour: 0, minute: 0 },
+    ],
+  },
+  {
+    name: 'Rating Battle',
+    channel: '1451349364105810013',
+    durationMinutes: 20,
+    mainSize: 25,
+    subsSize: 10,
+    vcChannelId: '1451338447913750704',
+    times: [
+      { hour: 22, minute: 30 },
+    ],
+  },
+  {
+    name: 'Vineyard',
+    channel: '1451349364105810013',
+    durationMinutes: 20,
+    mainSize: 25,
+    subsSize: 10,
+    vcChannelId: '1451338447913750704',
+    times: [
+      { hour: 22, minute: 0 },
+    ],
+  },
+  {
+    name: 'Informal',
+    channel: '1451355974983225354',
+    durationMinutes: 10,
+    mainSize: 10,
+    subsSize: 5,
+    vcChannelId: '1451356360410398851',
+    everyHourAtMinute: 30, 
+  },
+];

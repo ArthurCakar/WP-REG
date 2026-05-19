@@ -1,0 +1,16 @@
+{
+  "name": "grandroleplay-discord-bot-starter",
+  "version": "1.0.0",
+  "description": "Discord.js v13 starter for GrandRolePlay",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.0.0"
+  }
+}
